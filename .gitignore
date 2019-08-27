@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 __pycache__
 api_keys.py
+config.py
+/<folder_name>/<file_name>
+
