@@ -1,6 +1,17 @@
 .ipynb_checkpoints
+<<<<<<< HEAD
+__pycache__
+api_keys.py
+config.py
+/<folder_name>/<file_name>
+
+=======
 _pycache_
 api_keys.py
 config.py
 /<folder_name>/<file_name>
 /notebooks/config.py
+<<<<<<< HEAD
+=======
+>>>>>>> 3be3fae99760d83edc1f54dee79246d7ede9b24c
+>>>>>>> a84096b7e31ec6e77e87e2b449e181454613a213
