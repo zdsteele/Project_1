@@ -1,2 +1,1 @@
-# dummydataproject
-Dummy project to act as a scaffold example for project 1
+# Statistics Before and After the Recreational Legalization of Marijuana in the state of Colorado. 
