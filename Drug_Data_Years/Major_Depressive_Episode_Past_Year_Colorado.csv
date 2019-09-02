@@ -1,0 +1,21 @@
+outcome,age_group,years,geography,estimate,ci_lower,ci_upper
+Major Depressive Episode in the Past Year,12 to 17,2006-08,Colorado,0.090530327,0.076868831,0.106340117
+Major Depressive Episode in the Past Year,12 to 17,2008-10,Colorado,0.090509364,0.076034793,0.107419077
+Major Depressive Episode in the Past Year,12 to 17,2010-12,Colorado,0.082101656,0.068328339,0.098358231
+Major Depressive Episode in the Past Year,12 to 17,2012-14,Colorado,0.104904269,0.088935059,0.123352683
+Major Depressive Episode in the Past Year,12 to 17,2014-16,Colorado,0.1409181,0.122406372,0.161713516
+Major Depressive Episode in the Past Year,18 or Older,2006-08,Colorado,0.068764041,0.057816838,0.08160449
+Major Depressive Episode in the Past Year,18 or Older,2008-10,Colorado,0.072155803,0.06101804,0.085142225
+Major Depressive Episode in the Past Year,18 or Older,2010-12,Colorado,0.066069347,0.054928351,0.079280485
+Major Depressive Episode in the Past Year,18 or Older,2012-14,Colorado,0.062967272,0.053206547,0.074377933
+Major Depressive Episode in the Past Year,18 or Older,2014-16,Colorado,0.074967643,0.065381324,0.085830444
+Major Depressive Episode in the Past Year,18 to 25,2006-08,Colorado,0.085714659,0.071153942,0.10292486
+Major Depressive Episode in the Past Year,18 to 25,2008-10,Colorado,0.08062924,0.067465541,0.096096728
+Major Depressive Episode in the Past Year,18 to 25,2010-12,Colorado,0.090161715,0.075758449,0.106986363
+Major Depressive Episode in the Past Year,18 to 25,2012-14,Colorado,0.08325584,0.069087819,0.10001717
+Major Depressive Episode in the Past Year,18 to 25,2014-16,Colorado,0.114576976,0.097039953,0.134810117
+Major Depressive Episode in the Past Year,26 or Older,2006-08,Colorado,0.06590404,0.054020403,0.080180312
+Major Depressive Episode in the Past Year,26 or Older,2008-10,Colorado,0.070714082,0.058422231,0.085357653
+Major Depressive Episode in the Past Year,26 or Older,2010-12,Colorado,0.061986737,0.049740263,0.077004062
+Major Depressive Episode in the Past Year,26 or Older,2012-14,Colorado,0.059547062,0.048876721,0.072369615
+Major Depressive Episode in the Past Year,26 or Older,2014-16,Colorado,0.068323185,0.057815348,0.080577474
