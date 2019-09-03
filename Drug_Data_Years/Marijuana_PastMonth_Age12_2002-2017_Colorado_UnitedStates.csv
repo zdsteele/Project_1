@@ -1,0 +1,31 @@
+outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
+Marijuana Use in the Past Month,12 or Older,2002-03,Colorado,0.084905,0.071134,0.101053
+Marijuana Use in the Past Month,12 or Older,2003-04,Colorado,0.073297,0.061234,0.087515
+Marijuana Use in the Past Month,12 or Older,2004-05,Colorado,0.075309,0.063525,0.089071
+Marijuana Use in the Past Month,12 or Older,2005-06,Colorado,0.077573,0.065206,0.092054
+Marijuana Use in the Past Month,12 or Older,2006-07,Colorado,0.081342,0.068565,0.096255
+Marijuana Use in the Past Month,12 or Older,2007-08,Colorado,0.092082,0.076931,0.10986
+Marijuana Use in the Past Month,12 or Older,2008-09,Colorado,0.097656,0.081507,0.116598
+Marijuana Use in the Past Month,12 or Older,2009-10,Colorado,0.112892,0.095472,0.133023
+Marijuana Use in the Past Month,12 or Older,2010-11,Colorado,0.109815,0.093369,0.128745
+Marijuana Use in the Past Month,12 or Older,2011-12,Colorado,0.104083,0.088125,0.122542
+Marijuana Use in the Past Month,12 or Older,2012-13,Colorado,0.126995,0.108619,0.147964
+Marijuana Use in the Past Month,12 or Older,2013-14,Colorado,0.149266,0.130265,0.170495
+Marijuana Use in the Past Month,12 or Older,2014-15,Colorado,0.165651,0.145982,0.187389
+Marijuana Use in the Past Month,12 or Older,2015-16,Colorado,0.159223,0.140902,0.179428
+Marijuana Use in the Past Month,12 or Older,2016-17,Colorado,0.164301,0.145043,0.185562
+Marijuana Use in the Past Month,12 or Older,2002-03,United States,0.061803,0.059905,0.063756
+Marijuana Use in the Past Month,12 or Older,2003-04,United States,0.061091,0.059102,0.063144
+Marijuana Use in the Past Month,12 or Older,2004-05,United States,0.060367,0.058334,0.062467
+Marijuana Use in the Past Month,12 or Older,2005-06,United States,0.060247,0.058194,0.062367
+Marijuana Use in the Past Month,12 or Older,2006-07,United States,0.059366,0.057338,0.061462
+Marijuana Use in the Past Month,12 or Older,2007-08,United States,0.059757,0.05771,0.061871
+Marijuana Use in the Past Month,12 or Older,2008-09,United States,0.063982,0.061826,0.066207
+Marijuana Use in the Past Month,12 or Older,2009-10,United States,0.067733,0.065512,0.070024
+Marijuana Use in the Past Month,12 or Older,2010-11,United States,0.069401,0.067145,0.071727
+Marijuana Use in the Past Month,12 or Older,2011-12,United States,0.071333,0.069081,0.073652
+Marijuana Use in the Past Month,12 or Older,2012-13,United States,0.074008,0.071685,0.076401
+Marijuana Use in the Past Month,12 or Older,2013-14,United States,0.079615,0.077364,0.081926
+Marijuana Use in the Past Month,12 or Older,2014-15,United States,0.083357,0.081166,0.085601
+Marijuana Use in the Past Month,12 or Older,2015-16,United States,0.086028,0.083799,0.08831
+Marijuana Use in the Past Month,12 or Older,2016-17,United States,0.09229,0.089962,0.094672
