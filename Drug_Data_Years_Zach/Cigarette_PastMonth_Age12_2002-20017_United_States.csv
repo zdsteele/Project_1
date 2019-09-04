@@ -1,16 +1,16 @@
 outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
-Cigarette Use in the Past Month,12 or Older,2002-03,Texas,0.255619,0.241482,0.270288
-Cigarette Use in the Past Month,12 or Older,2003-04,Texas,0.261496,0.247634,0.275849
-Cigarette Use in the Past Month,12 or Older,2004-05,Texas,0.251116,0.237331,0.265423
-Cigarette Use in the Past Month,12 or Older,2005-06,Texas,0.254688,0.24085,0.269039
-Cigarette Use in the Past Month,12 or Older,2006-07,Texas,0.248605,0.23407,0.263731
-Cigarette Use in the Past Month,12 or Older,2007-08,Texas,0.233997,0.220763,0.247772
-Cigarette Use in the Past Month,12 or Older,2008-09,Texas,0.225075,0.212066,0.23864
-Cigarette Use in the Past Month,12 or Older,2009-10,Texas,0.220163,0.206422,0.234548
-Cigarette Use in the Past Month,12 or Older,2010-11,Texas,0.214576,0.200861,0.228958
-Cigarette Use in the Past Month,12 or Older,2011-12,Texas,0.204168,0.191699,0.217231
-Cigarette Use in the Past Month,12 or Older,2012-13,Texas,0.199399,0.186867,0.212552
-Cigarette Use in the Past Month,12 or Older,2013-14,Texas,0.202413,0.190687,0.214669
-Cigarette Use in the Past Month,12 or Older,2014-15,Texas,0.191328,0.18008,0.203104
-Cigarette Use in the Past Month,12 or Older,2015-16,Texas,0.185979,0.174748,0.19776
-Cigarette Use in the Past Month,12 or Older,2016-17,Texas,0.183344,0.172375,0.194847
+Cigarette Use in the Past Month,12 or Older,2002-03,United States,0.257115,0.252467,0.261819
+Cigarette Use in the Past Month,12 or Older,2003-04,United States,0.251633,0.246847,0.25648
+Cigarette Use in the Past Month,12 or Older,2004-05,United States,0.248954,0.244548,0.253413
+Cigarette Use in the Past Month,12 or Older,2005-06,United States,0.24957,0.244939,0.25426
+Cigarette Use in the Past Month,12 or Older,2006-07,United States,0.246526,0.24183,0.251283
+Cigarette Use in the Past Month,12 or Older,2007-08,United States,0.241161,0.236466,0.245919
+Cigarette Use in the Past Month,12 or Older,2008-09,United States,0.236341,0.231833,0.24091
+Cigarette Use in the Past Month,12 or Older,2009-10,United States,0.231599,0.227101,0.23616
+Cigarette Use in the Past Month,12 or Older,2010-11,United States,0.225255,0.2209,0.229671
+Cigarette Use in the Past Month,12 or Older,2011-12,United States,0.220887,0.216332,0.22551
+Cigarette Use in the Past Month,12 or Older,2012-13,United States,0.216868,0.212353,0.221452
+Cigarette Use in the Past Month,12 or Older,2013-14,United States,0.210456,0.206534,0.214432
+Cigarette Use in the Past Month,12 or Older,2014-15,United States,0.20118,0.197445,0.204968
+Cigarette Use in the Past Month,12 or Older,2015-16,United States,0.192292,0.188656,0.195982
+Cigarette Use in the Past Month,12 or Older,2016-17,United States,0.184708,0.181083,0.188389
