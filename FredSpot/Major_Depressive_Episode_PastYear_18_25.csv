@@ -1,0 +1,13 @@
+outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
+Major Depressive Episode in the Past Year,18 to 25,2005-06,Colorado,0.093788,0.077214,0.113482
+Major Depressive Episode in the Past Year,18 to 25,2006-07,Colorado,0.085939,0.06932,0.10609
+Major Depressive Episode in the Past Year,18 to 25,2007-08,Colorado,0.084162,0.068535,0.102959
+Major Depressive Episode in the Past Year,18 to 25,2008-09,Colorado,0.084024,0.067379,0.104322
+Major Depressive Episode in the Past Year,18 to 25,2009-10,Colorado,0.079959,0.064892,0.098158
+Major Depressive Episode in the Past Year,18 to 25,2010-11,Colorado,0.089773,0.074358,0.10801
+Major Depressive Episode in the Past Year,18 to 25,2011-12,Colorado,0.092558,0.075992,0.112296
+Major Depressive Episode in the Past Year,18 to 25,2012-13,Colorado,0.08559,0.069567,0.104888
+Major Depressive Episode in the Past Year,18 to 25,2013-14,Colorado,0.083768,0.066928,0.104371
+Major Depressive Episode in the Past Year,18 to 25,2014-15,Colorado,0.104673,0.086098,0.126699
+Major Depressive Episode in the Past Year,18 to 25,2015-16,Colorado,0.126584,0.104404,0.152673
+Major Depressive Episode in the Past Year,18 to 25,2016-17,Colorado,0.150065,0.124649,0.179599
