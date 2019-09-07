@@ -1,0 +1,10 @@
+outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
+Any Mental Illness in the Past Year,18 to 25,2008-09,Colorado,0.177379,0.152722,0.205053
+Any Mental Illness in the Past Year,18 to 25,2009-10,Colorado,0.181942,0.157664,0.209031
+Any Mental Illness in the Past Year,18 to 25,2010-11,Colorado,0.208681,0.183554,0.236252
+Any Mental Illness in the Past Year,18 to 25,2011-12,Colorado,0.201009,0.175892,0.228717
+Any Mental Illness in the Past Year,18 to 25,2012-13,Colorado,0.190643,0.164907,0.219341
+Any Mental Illness in the Past Year,18 to 25,2013-14,Colorado,0.212356,0.184294,0.243417
+Any Mental Illness in the Past Year,18 to 25,2014-15,Colorado,0.242642,0.212704,0.275319
+Any Mental Illness in the Past Year,18 to 25,2015-16,Colorado,0.25627,0.222951,0.292692
+Any Mental Illness in the Past Year,18 to 25,2016-17,Colorado,0.277203,0.24325,0.313929

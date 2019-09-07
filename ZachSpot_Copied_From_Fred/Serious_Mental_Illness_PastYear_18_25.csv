@@ -1,0 +1,10 @@
+outcome,age_group,year_pair,geography,estimate,ci_lower,ci_upper
+Serious Mental Illness in the Past Year,18 to 25,2008-09,Colorado,0.036705,0.027999,0.047985
+Serious Mental Illness in the Past Year,18 to 25,2009-10,Colorado,0.040144,0.03066,0.052401
+Serious Mental Illness in the Past Year,18 to 25,2010-11,Colorado,0.043971,0.034157,0.056441
+Serious Mental Illness in the Past Year,18 to 25,2011-12,Colorado,0.043722,0.034239,0.05568
+Serious Mental Illness in the Past Year,18 to 25,2012-13,Colorado,0.04406,0.034502,0.056111
+Serious Mental Illness in the Past Year,18 to 25,2013-14,Colorado,0.043542,0.034415,0.054952
+Serious Mental Illness in the Past Year,18 to 25,2014-15,Colorado,0.05271,0.041372,0.066939
+Serious Mental Illness in the Past Year,18 to 25,2015-16,Colorado,0.066527,0.051815,0.085042
+Serious Mental Illness in the Past Year,18 to 25,2016-17,Colorado,0.086731,0.068837,0.108732
